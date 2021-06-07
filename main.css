@@ -1,0 +1,91 @@
+.body{
+    font-family: roboto;
+}
+#header{
+    width: 100%;
+    background-color:#c9c6c6;
+    height:650px;  
+}
+#logo{
+    margin-top: 35px;
+    height: 65px;
+    width: 65px;
+    margin-left: 16px;
+    position: absolute;
+  
+}
+#container1{
+    display: flex;
+    width: 100%;
+    flex-direction:row;
+    padding-top: 30px;
+   
+}
+#cont2{
+
+    background-color:#c9c6c6;
+    margin-top: 80px;
+    height: 435px;
+}
+#cont3{
+    background-color:#c9c6c6;
+    width:100%;
+    margin-top: 80px;
+    height: 435px;
+}
+#pic1{
+   width:130px;
+   height:430px;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+p{
+    font-size: 16px;
+    position:static;
+}
+#mainhead1{
+    font-weight: bold;
+    margin-top: 7px;
+   
+
+}
+#scnddiv{
+    width: 100%;
+    background-color:white;
+    height:650px;  
+
+}
+#listpic1{
+    height: 80px;
+    width: 80px; 
+    margin-top: 15px;
+}
+#listpara1{
+  margin-left: 110px;
+  margin-top: -80px;
+  padding-right: 25px;
+  font-size: 18px;
+  
+}
+#hd1{
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 10px;
+}
+#arrow{
+    float:right;
+    font-size: 24px;
+    margin-top: -60px;
+    padding-left: 7px; 
+}
+#mainhead2{
+    padding-top: 30px;
+    font-weight: bold;
+
+}
+a{
+  color: white;
+  text-decoration: none;
+}
